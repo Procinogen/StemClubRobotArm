@@ -1,0 +1,30 @@
+List:
+~Basics~
+	-Raspberry Pi Model B(done)
+		-Previous 2 were fried... I need to get another one
+	-Breadboard (Done)
+		-Should upgrade to circuit board post-prototyping phase
+	-Jumper Wires (Done)
+	-Some kind of power source (done)
+
+~Sensory and Conversion~
+	-Some kind of ADC chip
+		-MPC3008 looks good enough, though the page said it's best for simple inputs
+	-Two Gyroscopes
+		-The MPU6050 looks good enough, it doubles as an accelerometer and is fairly cheap.
+	-5 Flex Sensors
+		-https://www.sparkfun.com/products/8606 three of these
+		-https://www.sparkfun.com/products/10264 two of these (or just five of these)
+
+~Motors and Motor Control~
+	-Servo Motors, Obviously
+		-9 will be needed
+			-5 for the fingers, 2 for the wrist (one for up and down motion, the other for rotational motion), 1 for bicep and 1 to control the side to side movement of the forearm
+	-A servo driver to prevent jittering
+		-https://www.adafruit.com/product/815 this one looks promising
+		
+~Construction~
+	-Various 3D printed parts
+		-Manasseh will be in charge of that
+	-Some kind of internal bone structure
+		-Ball joints will act as well.. the joints

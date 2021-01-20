@@ -1,0 +1,5 @@
+STEM Club project programming notes
+	-Either using Raspberry Pi or Arduino
+		-I might be using an Arduino, it can take analog inputs and already has a breadboard
+		-If I were to use a Raspberry Pi I would need a breadboard... what are the advantages to using a raspberry pi?
+		-There is on the other hand, one for servo motors, the "Arduino Servo Library", sounds the most useful as it has functions designed around the servos
